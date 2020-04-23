@@ -1,0 +1,12 @@
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\bin\Release\netcoreapp3.1\Blog.AccesoDatos.deps.json
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\bin\Release\netcoreapp3.1\Blog.AccesoDatos.dll
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\bin\Release\netcoreapp3.1\Blog.AccesoDatos.pdb
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\bin\Release\netcoreapp3.1\Blog.Modelos.dll
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\bin\Release\netcoreapp3.1\Blog.Modelos.pdb
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.AssemblyInfo.cs
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.csproj.CopyComplete
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.dll
+C:\Users\ijura\source\repos\Blog\Blog.AccesoDatos\obj\Release\netcoreapp3.1\Blog.AccesoDatos.pdb

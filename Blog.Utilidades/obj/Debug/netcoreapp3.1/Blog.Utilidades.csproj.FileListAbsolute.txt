@@ -1,0 +1,9 @@
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\bin\Debug\netcoreapp3.1\Blog.Utilidades.deps.json
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\bin\Debug\netcoreapp3.1\Blog.Utilidades.dll
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\bin\Debug\netcoreapp3.1\Blog.Utilidades.pdb
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\obj\Debug\netcoreapp3.1\Blog.Utilidades.csprojAssemblyReference.cache
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\obj\Debug\netcoreapp3.1\Blog.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\obj\Debug\netcoreapp3.1\Blog.Utilidades.AssemblyInfoInputs.cache
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\obj\Debug\netcoreapp3.1\Blog.Utilidades.AssemblyInfo.cs
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\obj\Debug\netcoreapp3.1\Blog.Utilidades.dll
+C:\Users\ijura\source\repos\Blog\Blog.Utilidades\obj\Debug\netcoreapp3.1\Blog.Utilidades.pdb

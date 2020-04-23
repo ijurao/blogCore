@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2 class="text-primary">Lista de Articulos</h2>
+        </div>
+
+        <div class="col-6 text-right">
+            <a class="ntn btn-primary" asp-action="Create" asp-controller="Articulos"><i class="fa fa-plus">Nuevo Articulo</i></a>
+        </div>
+
+    </div>
+    <br />
+    <br />
+    <table id="tbArticulos" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Titulo</th>
+                <th>Descripcion</th>
+                <th>Categoria</th>
+                <th>Imagen</th>
+                <th>Fecha de Creacions</th>
+                <th></th>
+            </tr>
+
+        </thead>
+
+
+    </table>
+</div>
+
+@section Scripts{
+    <script src="~/js/Articulos.js">
+       
+    </script>
+}
